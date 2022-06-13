@@ -28,7 +28,7 @@ params:
   BookComments: yes
   BookDateFormat: January 2, 2006
   BookPortableLinks: yes
-  BookRepo: https://github.com/alex-shpak/hugo-book
+  BookRepo: https://github.com/JasHunter/PAGES2k-Network-database-Portal
   BookSearch: yes
   BookSection: docs
   BookServiceWorker: yes
