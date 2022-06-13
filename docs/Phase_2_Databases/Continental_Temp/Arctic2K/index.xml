@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Arctic Temperature Database V1.1 (2014) on PAGES database</title>
-    <link>/docs/Phase_2_Databases/Continental_Temp/Arctic2K/</link>
-    <description>Recent content in Arctic Temperature Database V1.1 (2014) on PAGES database</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/docs/Phase_2_Databases/Continental_Temp/Arctic2K/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>

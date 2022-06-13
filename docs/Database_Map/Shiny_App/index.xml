@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>PAGES2k Phase 1-2 Database map viewer on PAGES database</title>
-    <link>/docs/Database_Map/Shiny_App/</link>
-    <description>Recent content in PAGES2k Phase 1-2 Database map viewer on PAGES database</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/docs/Database_Map/Shiny_App/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
