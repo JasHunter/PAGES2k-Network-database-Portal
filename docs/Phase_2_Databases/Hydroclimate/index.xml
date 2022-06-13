@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regional and Continental Hydroclimate Compilations on PAGES database</title>
+    <link>/docs/Phase_2_Databases/Hydroclimate/</link>
+    <description>Recent content in Regional and Continental Hydroclimate Compilations on PAGES database</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/docs/Phase_2_Databases/Hydroclimate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Northern Hemisphere hydroclimatic variability Database V1.0.0 (2016)</title>
+      <link>/docs/Phase_2_Databases/Hydroclimate/NorthernHemisphereHydroclimate/northernHemisphere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/Phase_2_Databases/Hydroclimate/NorthernHemisphereHydroclimate/northernHemisphere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Australian Multi-century cool- and warm season rainfall reconstructions (2017)</title>
+      <link>/docs/Phase_2_Databases/Hydroclimate/AustralasiaRainfall/Australasia_rainfall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/Phase_2_Databases/Hydroclimate/AustralasiaRainfall/Australasia_rainfall/</guid>
+      <description>Australian Multi-century cool- and warm season rainfall reconstructions (2017) #  Current version: V3.0 Access publication  &amp;nbsp; Access data (Figshare)   Citation details Freund, M., Henley, B. J., Karoly, D. J., Allen, K. J., and Baker, P. J.: Multi-century cool- and warm-season rainfall reconstructions for Australia&amp;rsquo;s major climatic regions, Clim. Past, 13, 1751–1770, https://doi.org/10.5194/cp-13-1751-2017, 2017
+Summary of Reconstruction: #  This study reconstructed Australian cool (April-September) and warm (October-March) season rainfall over 1200-1600CE, using an extensive network of palaeoclimate proxies from the Southern Hemisphere.</description>
+    </item>
+    
+  </channel>
+</rss>

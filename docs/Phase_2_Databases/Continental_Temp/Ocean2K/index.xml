@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ocean2k Low-resolution Global SST Synthesis (2015) on PAGES database</title>
+    <link>/docs/Phase_2_Databases/Continental_Temp/Ocean2K/</link>
+    <description>Recent content in Ocean2k Low-resolution Global SST Synthesis (2015) on PAGES database</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/docs/Phase_2_Databases/Continental_Temp/Ocean2K/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ocean2K 400year Coral Data and Tropical SST reconstructions (2015) V1.0</title>
+      <link>/docs/Phase_2_Databases/Continental_Temp/Ocean2K/first-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/Phase_2_Databases/Continental_Temp/Ocean2K/first-page/</guid>
+      <description>PAGES Ocean2K 400year Coral Data and Tropical SST reconstructions #   Access data (WDS Paleo) - Access Publication
+This database presents four 400-year long regional sea surface temperature reconstructions for four regions in the tropics - the Eastern Pacific, the Indian Ocean, the Western Atlantic Ocean, and the Western Pacific. The reconstructions are based on a database made up of 57 marine paleoclimate datasets, all sourced from tropical coral archives.</description>
+    </item>
+    
+  </channel>
+</rss>
