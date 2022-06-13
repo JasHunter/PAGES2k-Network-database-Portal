@@ -1,0 +1,14 @@
+name: PAGES2K_Database_Map_V1
+title: PAGES2K_Database_Map_V1
+username:
+account: j6913
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6476609
+bundleId: 6001706
+url: https://j6913.shinyapps.io/PAGES2K_Database_Map_V1/
+when: 1655094967.24243
+lastSyncTime: 1655094967.24243
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/metadata_all.csv|data/metadata_all.txt|data/metadata_all_UTF.txt
