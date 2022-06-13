@@ -1,0 +1,39 @@
+baseURL: "/"
+title: PAGES2k Network
+theme: hugo-book
+disablePathToLower: yes
+enableGitInfo: no
+runtime: shiny
+output:  html_document
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+staticDir: ["static","themes/hugo-book/static"]
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
+  tableOfContents:
+    startLevel: 1
+languages:
+  en:
+    contentDir: content
+    languageName: English
+    weight: 1
+menu:
+  after:
+    - name: Github
+      url: https://github.com/alex-shpak/hugo-book
+      weight: 10
+
+params:
+  BookComments: yes
+  BookDateFormat: January 2, 2006
+  BookPortableLinks: yes
+  BookRepo: https://github.com/alex-shpak/hugo-book
+  BookSearch: yes
+  BookSection: docs
+  BookServiceWorker: yes
+  BookTheme: auto
+  BookToC: yes
+  BookTranslatedOnly: no 
+
+ 
