@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction Page on PAGES database</title>
+    <link>/</link>
+    <description>Recent content in Introduction Page on PAGES database</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>North American borehole temperature profiles for climate studies V1.0 (2016)</title>
+      <link>/docs/Phase_2_Databases/Continental_Temp/NorthAmerica2K/North_America_Temp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/Phase_2_Databases/Continental_Temp/NorthAmerica2K/North_America_Temp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Temperature Proxy Dataset list (2017)</title>
+      <link>/docs/Phase_2_Databases/Global_Temp/V2.0.0_2017/_index-Copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/Phase_2_Databases/Global_Temp/V2.0.0_2017/_index-Copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Northern Hemisphere hydroclimatic variability Database V1.0.0 (2016)</title>
+      <link>/docs/Phase_2_Databases/Hydroclimate/NorthernHemisphereHydroclimate/northernHemisphere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/Phase_2_Databases/Hydroclimate/NorthernHemisphereHydroclimate/northernHemisphere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Australasian Low-resolution palaeoclimate records of the Common Era V1.0  (2017)</title>
+      <link>/docs/Phase_2_Databases/Continental_Temp/Australasia2k/Low_Res_Paleo_Aus2k/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/Phase_2_Databases/Continental_Temp/Australasia2k/Low_Res_Paleo_Aus2k/</guid>
+      <description>Australasian Low-resolution palaeoclimate records of the Common Era V1.0 (2017) #  Current version:1.0.0
+Access publication  &amp;nbsp; Access database (NOAA)   Citation details Bronwyn C. Dixon, Jonathan J. Tyler, Andrew M. Lorrey, Ian D. Goodwin, Joëlle Gergis, and Russell N. Drysdale. 2017. Low-Resolution Australasian Palaeoclimate Records of the Last 2000 Years. Climate of the Past, 13, 1403-1433. doi: 10.5194/cp-13-1403-2017
+Summary of database: #  This database is a compilation of low-resolution ( greater than annual resolution) paleoclimate records from the Australasian region over the Common Era (0-2000AD).</description>
+    </item>
+    
+    <item>
+      <title>Australasian Temperature Reconstructions 1000-2000AD V.1.1.1 (2016)</title>
+      <link>/docs/Phase_2_Databases/Continental_Temp/Australasia2k/Australasian_T_1000_2000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/Phase_2_Databases/Continental_Temp/Australasia2k/Australasian_T_1000_2000/</guid>
+      <description>Australasian Temperature Reconstructions Spanning the Last Millennium (2016) #  Current version: V2.0 Access publication  &amp;nbsp; Access data (NOAA)   Citation details Joelle Gergis, Raphael Neukom, Ailie J.E. Gallant, and David J. Karoly. 2016. Australasian temperature reconstructions spanning the last millennium. Journal of Climate, 29(15), 5365-5392. doi: 10.1175/JCLI-D-13-00781.1
+Summary of Reconstruction: #  This study presents temperature reconstructions for the Australasia region, for the warm season (September to February) over 1000-2000AD.</description>
+    </item>
+    
+    <item>
+      <title>Australian Multi-century cool- and warm season rainfall reconstructions (2017)</title>
+      <link>/docs/Phase_2_Databases/Hydroclimate/AustralasiaRainfall/Australasia_rainfall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/Phase_2_Databases/Hydroclimate/AustralasiaRainfall/Australasia_rainfall/</guid>
+      <description>Australian Multi-century cool- and warm season rainfall reconstructions (2017) #  Current version: V3.0 Access publication  &amp;nbsp; Access data (Figshare)   Citation details Freund, M., Henley, B. J., Karoly, D. J., Allen, K. J., and Baker, P. J.: Multi-century cool- and warm-season rainfall reconstructions for Australia&amp;rsquo;s major climatic regions, Clim. Past, 13, 1751–1770, https://doi.org/10.5194/cp-13-1751-2017, 2017
+Summary of Reconstruction: #  This study reconstructed Australian cool (April-September) and warm (October-March) season rainfall over 1200-1600CE, using an extensive network of palaeoclimate proxies from the Southern Hemisphere.</description>
+    </item>
+    
+    <item>
+      <title>Ocean2K High-resolution 400year Coral Data and Tropical SST reconstructions (2015) V1.0</title>
+      <link>/docs/Phase_2_Databases/Continental_Temp/Ocean2K/HighResCoralData/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/Phase_2_Databases/Continental_Temp/Ocean2K/HighResCoralData/</guid>
+      <description>Ocean2K High-resolution 400year Coral Data and Tropical SST reconstructions (2015) V1.0 #  Current Version: 1.0
+Access publication  &amp;nbsp; Access data (NOAA)   Citation Details Tierney, J.E., Abram, N.J., Anchukaitis, K.J., Evans, M.N., Giry, C., Kilbourne, K.H., Saenger, C.P., Wu, H.C. and Zinke, J., 2015. Tropical sea surface temperatures for the past four centuries reconstructed from coral archives. paleoceanography, 30(3), pp.226-252.
+Summary of Database #  This database presents four 400-year long annually resolved sea surface temperature reconstructions for four basins in the tropics - the Eastern Pacific, the Indian Ocean, the Western Atlantic Ocean, and the Western Pacific.</description>
+    </item>
+    
+    <item>
+      <title>Ocean2k Low-resolution Global SST Synthesis (2015)</title>
+      <link>/docs/Phase_2_Databases/Continental_Temp/Ocean2K/LowResCoralData/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/Phase_2_Databases/Continental_Temp/Ocean2K/LowResCoralData/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
