@@ -44,7 +44,7 @@ Figure. A: Spatial and temporal distribution of the records used in the CoralHyd
 ### Summary of Metadata:
 There is machine readable, metadata rich network for all records included in the database, following both MARPA ([Dassie et al., 2017](https://doi.org/https://doi.org/10.1029/2017EO068159)) and PaCTS ([Khider et al., 2019](https://doi.org/10.1029/2019PA003632)) guidelines. This includes 55 metadata fields, with 32 standardised and 23 unstructured. These are split into four metadata categories; Entity, publication, analysis, and calibration, and described in Table 2. Below. 
 
-Table. 2: Summary of the metadata grouping system in the Coralhydro2k database ([Walker et al., 2022](https://essd.copernicus.org/preprints/essd-2022-172/)
+Table. 2: Summary of the metadata grouping system in the Coralhydro2k database ([Walker et al., 2022](https://essd.copernicus.org/preprints/essd-2022-172/))
 |Metadata category| Description |Field types|Number of Fields |
 |----------|------------|-----------------|------------------------|
 |Entity| identifying information about each coral record| geographic coordinates, location names, water depth, coral species, core names, age ranges, resolution|21|
