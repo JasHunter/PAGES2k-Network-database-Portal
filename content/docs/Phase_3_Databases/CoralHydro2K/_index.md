@@ -22,7 +22,7 @@ Investigate ocean temperature and hydrology over the Common Era as seen in proxy
 **Citation details - Dataset** Walter, R.M.; Sayani, H.R.; Felis, T.; Cobb, K.M.; Abram, N.J.; Arzey, A.K.; Atwood, A.; Brenner, L.D.; Dassié, E.P.; DeLong, K.L.; Ellis, B.; Fischer, M.J.; Goodkin, N.F.; Hargreaves, J.A.; Kilbourne, K.H.; Krawczyk, H.A.; McKay, N.P.; Murty, S.A.; Ramos, R.D.; Reed, E.V.; Samanta, D.; Sanchez, S.C.; Zinke, J.; PAGES CoralHydro2k Project Members (2022-02-02): NOAA/WDS Paleoclimatology - CoralHydro2k Database (Common Era coral d18O and Sr/Ca data compilation). NOAA National Centers for Environmental Information. https://doi.org/10.25921/yp94-v135.
 
 ## Summary of Database 
-The CoralHydro2k database is a data compilation of published and peer-reviewed coral strontium-calcium ratio (Sr/Ca)  and oxygen isotope ( δ<sup>18</sup>O) records over the Common Era. Records are sourced from the Pacific, Atlantic, North Atlantic, and Indian ocean basins, with derived SST, SSTA, and  δ<sup>18</sup>O<sub>sw</sub> variables included where available (Fig. 1 below). The data compilation can be used as proxies Tropical sea surface conditions, and provides resolutions of annual to monthly. This database builds upon the OCEAN2k, and ISO2k projects, and initially records were taken from these two databases. The criteria for records was then expanded to include records published more recently, shorter records, records of lower resolutions, and Sr/Ca only records. A total of 233 timeseries are included in the database, from 124 locations, including 27 previously unarchived records provided by Coralhydro2k project members. Temporally, the majority of records cover between 1800-2010CE, while 28% cover earlier than 1800. More information on the Database, and investigations into the uses of Coral records into Tropical ocean conditions can be found in the data descriptor publication ([Walker et al., 2022](https://essd.copernicus.org/preprints/essd-2022-172/).
+The CoralHydro2k database is a data compilation of published and peer-reviewed coral strontium-calcium ratio (Sr/Ca)  and oxygen isotope ( δ<sup>18</sup>O) records over the Common Era. Records are sourced from the Pacific, Atlantic, North Atlantic, and Indian ocean basins, with derived SST, SSTA, and  δ<sup>18</sup>O<sub>sw</sub> variables included where available (Fig. A below). The data compilation can be used as proxies Tropical sea surface conditions, and provides resolutions of annual to monthly. This database builds upon the OCEAN2k, and ISO2k projects, and initially records were taken from these two databases. The criteria for records was then expanded to include records published more recently, shorter records, records of lower resolutions, and Sr/Ca only records. A total of 233 timeseries are included in the database, from 124 locations, including 27 previously unarchived records provided by Coralhydro2k project members. Temporally, the majority of records cover between 1800-2010CE, while 28% cover earlier than 1800. More information on the Database, and investigations into the uses of Coral records into Tropical ocean conditions can be found in the data descriptor publication ([Walker et al., 2022](https://essd.copernicus.org/preprints/essd-2022-172/).
  
 The database is grouped into seven tiers of records to categorise records by temporal range, resolution, and geochemical tracer type, as described in Table.1 below. A total of 179 records are currently available, and each dataset has been assigned a nin-digit alphanumeric identifyer following the ISO2k database methodology  ([Konecky et al., 2020](https://essd.copernicus.org/articles/12/2261/2020/)).
 
@@ -38,6 +38,9 @@ Table. 1: Summary of the grouping system used in the Coralhydro2k database ([Wal
 |7| Sr/Ca| Seasonal or lower |Within Common Era |10|
 |Total| | |  |179 records, 233 timeseries |
 
+![CoralHydro2k Database coverage V0.5.4](./images/CoralHydro2k_database_map.png)
+
+Figure. A: Spatial and temporal distribution of the records used in the CoralHydro2k database, coloured by Grouping type. Taken from the accompanying data descriptor publication ([Walker et al., 2022](https://essd.copernicus.org/preprints/essd-2022-172/).
 ### Summary of Metadata:
 There is machine readable, metadata rich network for all records included in the database, following both MARPA ([Dassie et al., 2017](https://doi.org/https://doi.org/10.1029/2017EO068159)) and PaCTS ([Khider et al., 2019](https://doi.org/10.1029/2019PA003632)) guidelines. This includes 55 metadata fields, with 32 standardised and 23 unstructured. These are split into four metadata categories; Entity, publication, analysis, and calibration, and described in Table 2. Below. 
 
@@ -48,6 +51,7 @@ Table. 2: Summary of the metadata grouping system in the Coralhydro2k database (
 |Publication| bibliographical information about each coral record| Pblication DOIs, links to original dataset, citation details, authors|9|
 |Analysis|Provides information about the how the records were sampled and analysed| sampling methods and resolution, coral extension rate, analytical error, use of JCPstandards, notes on coral analysis|12|
 |Calibration|information about calibrations applied to the proxy records| proxy-SST slopes, intercepts, correlations, regression methods|7|
+
 
 ## How to access database:
 
